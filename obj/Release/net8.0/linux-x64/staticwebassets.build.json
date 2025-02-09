@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XABOQXwhzf65bvSfgGfPIYu4uioaeR+p/EdUHc2LrQU=",
+  "Source": "VueBlog.API",
+  "BasePath": "_content/VueBlog.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
